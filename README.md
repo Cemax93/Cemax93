@@ -21,3 +21,7 @@ I specialize in Python and Lua development and also enjoy exploring 3D modeling 
 #### [ARC - Advanced Research Complex (Arès)](https://www.roblox.com/games/12508321599/ARC-A-Advanced-Research-Complex-Ar-s)
 
 I'm currently working on a Roblox project, **ARC - Advanced Research Complex**, which features advanced research environments and challenging gameplay. This project utilizes both my Lua expertise for scripting and Python for external tools.
+
+### Github stats
+
+![my stats](https://github-readme-stats.vercel.app/api?username=Cemax93&show_icons=true)
